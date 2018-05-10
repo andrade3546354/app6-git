@@ -2,13 +2,13 @@
 
 <widget xmlns= "http://www.w3.org/ns/widgets"
 xmlns:gap= "http://phonegap.com/ns/1.0"
-id = "com.phonegap.app4"
+id = "com.phonegap.app6"
 version = "1.0.0">
 
-<name> APP4contaminacion </name>
+<name> APP5 batalla 5 de mayo</name>
 
 <description>
-Aplicacion que muestra contaminacion ambiental
+Aplicacion sobre la batalla del 5 de mayo
 </description>
 
 <author href="https://build.phonegap.com" email="adolfandrade1@gmail.com">
